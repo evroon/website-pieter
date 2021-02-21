@@ -3,7 +3,12 @@ import os
 import requests
 import xml.etree.ElementTree as ET
 
-publications = glob.glob('_publications/*.md')
+publications_dir = '_publications'
+
+if not os.path.exists(publications_dir):
+    os.makedirs(publications_dir)
+
+publications = glob.glob(f'{publications_dir}/*.md')
 
 for pub in publications:
     os.remove(pub)
@@ -22,7 +27,7 @@ for child in root[0][4:]:
     description = description.replace('In :', 'In:')
     print(title, link, date)
 
-    with open(f'_publications/{date}-paper-title-number-1.md', 'w') as f:
+    with open(f'_publications/paper-{date}.md', 'w') as f:
         f.write(
 f"""---
 title: "{title}"
