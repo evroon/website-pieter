@@ -41,23 +41,6 @@ Grants
 <b>2004</b> NWO open competition 3-year postdoc project. “Quantifying the different source inputs in arc magmas: HFSE evidence from the Sunda-Banda and Sangihe Arcs, Indonesia”. k€226.\
 <b>2000</b> NWO Groot investment award for a LA MC-ICPMS. “Acquisition of a multicollector ICP-magnetic mass spectrometer with laser ablation capability (LA-MC-ICPMS)”. k€958
 
-Teaching
-======
-Faculty of Earth and Life Sciences, VU University Amsterdam, The Netherlands.
-
-B.Sc. Magmatic and Metamorphic Petrology, including one-week Massif Central field trip: Magmatic section (year 2)\
-B.Sc. Introduction to Geobiology (year 2, 1 lecture)\
-B.Sc. Natural hazards (year 2, coordinator)\
-B.Sc. Petrology of System Earth: Analytical topics (year 3)\
-B.Sc. Fieldtrip and mapping excercise Skye (year 3)\
-M.Sc. Mantle Properties in Lithospheric Development (year 1, 2 lectures).\
-M.Sc. Magmatic Processes (year 1, 4 lectures).\
-M.Sc. Volcanology (year 2, coordinator, 7 lectures).\
-M.Sc. Advanced Geochemistry (year 2, 2 lectures).\
-M.Sc. Archeometry III (year 2, 5 lectures).\
-M.Sc. Planetary Science (year 2, 2 lectures).\
-M.Sc. Thesis research project (yrs 1 and 2).
-
 <!-- Students
 ======
 Mirek Groen (MSc 2007)

@@ -1,6 +1,6 @@
 Dr. Pieter Z. Vroon\
 Department of Petrology\
-Faculty of Earth and Life Sciences (FALW)\
+Faculty of Science, Geology and Geochemistry\
 Vrije Universiteit\
 De Boelelaan 1085\
 NL-1081 HV Amsterdam\
