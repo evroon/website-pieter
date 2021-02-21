@@ -4,6 +4,7 @@ import requests
 import xml.etree.ElementTree as ET
 
 publications_dir = '_publications'
+rss_url = 'https://research.vu.nl/en/persons/pz-vroon/publications/?format=rss'
 
 if not os.path.exists(publications_dir):
     os.makedirs(publications_dir)
@@ -13,7 +14,7 @@ publications = glob.glob(f'{publications_dir}/*.md')
 for pub in publications:
     os.remove(pub)
 
-xml_content = requests.get('https://research.vu.nl/en/persons/pz-vroon/publications/?format=rss').content
+xml_content = requests.get(rss_url).content
 root = ET.fromstring(xml_content)
 
 for child in root[0][4:]:
